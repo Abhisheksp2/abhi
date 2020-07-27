@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DjangoProject.iml" filepath="$PROJECT_DIR$/.idea/DjangoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02_Python basic programes/Harsh/.idea/Harsh.iml" filepath="$PROJECT_DIR$/../../02_Python basic programes/Harsh/.idea/Harsh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../advtemplate/.idea/advtemplate.iml" filepath="$PROJECT_DIR$/../advtemplate/.idea/advtemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apjobs/.idea/apjobs.iml" filepath="$PROJECT_DIR$/../apjobs/.idea/apjobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../empProject/.idea/empProject.iml" filepath="$PROJECT_DIR$/../empProject/.idea/empProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formproject/.idea/formproject.iml" filepath="$PROJECT_DIR$/../formproject/.idea/formproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newsPortal/.idea/newsPortal.iml" filepath="$PROJECT_DIR$/../newsPortal/.idea/newsPortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../templatefilters/.idea/templatefilters.iml" filepath="$PROJECT_DIR$/../templatefilters/.idea/templatefilters.iml" />
+    </modules>
+  </component>
+</project>
