@@ -4,7 +4,7 @@ from testApp.models import *
 # Create your views here.
 from testApp.models import Contact
 
-
+# added comment
 def home(request):
     return render(request,'testApp/index.html')
 
