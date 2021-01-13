@@ -11,3 +11,6 @@ class Contact(models.Model):
 
 class Employee(models.Model):
     pass
+
+class Student(models.Model):
+    pass
